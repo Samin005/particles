@@ -67,7 +67,7 @@ export class AppComponent implements OnInit {
         },
         'line_linked': {
           'enable': true,
-          'distance': 150,
+          'distance': 70,
           'color': '#ffa3a3',
           'opacity': 0.4,
           'width': 1
